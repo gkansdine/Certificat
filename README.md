@@ -3,7 +3,7 @@ This repository contains a collection of my academic diplomas and professional c
 
 Academic Diplomas
 
-btsdiplome.pdf: BTS (Brevet de Technicien Supérieur) diploma
+btsdiplome.pdf: BTS (Brevet de Technicien Supérieur) diploma Associate Degree
 
 diplomebac.pdf: High School diploma (Baccalauréat)
 
@@ -19,7 +19,7 @@ Coursera RYMPJ7FE4TMU.pdf: Coursera certification
 
 Coursera TGZ5UPNQL69E.pdf: Coursera certification 
 
-certificat.pdf: General certification udacity USA
+certificat.pdf: Datanalyst udacity USA
 
 certificatdatanalyticgoogle.pdf: Google Data Analytics certification
 
